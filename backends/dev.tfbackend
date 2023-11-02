@@ -1,0 +1,4 @@
+bucket = "shimodiaira-no-s3-dev"
+key = "terraform.tfstate"
+region = "ap-northeast-1"
+profile = "terraform-shimodaira"
